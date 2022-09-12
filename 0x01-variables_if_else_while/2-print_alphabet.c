@@ -1,0 +1,21 @@
+#include <studio.h>
+/**
+ *main - Entry point
+ *
+ *Return: Always 0 (Successs/correct)
+ */
+int main(void)
+
+{
+char alphabet;
+
+for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+{
+putcher(alphabet);
+}
+
+putchar('\n');
+
+return (0);
+
+}
