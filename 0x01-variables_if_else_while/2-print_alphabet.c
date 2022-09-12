@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  *main - Entry point
  *
@@ -11,7 +11,7 @@ char alphabet;
 
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-putcher(alphabet);
+putchar(alphabet);
 }
 
 putchar('\n');
