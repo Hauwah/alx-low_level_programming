@@ -15,7 +15,7 @@ int j, last;
 j = 0;
 while (str[j] != '\0')
 {
-j++
+j++;
 }
 
 last = (j + 1) / 2;
