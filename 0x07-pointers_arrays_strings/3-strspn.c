@@ -42,4 +42,3 @@ unsigned int _strspn(char *s, char *accept)
 
            return (count); /*return the value of count*/
 }
-
